@@ -1,0 +1,10 @@
+fastapi==0.75.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+tensorflow==1.5.0
+keras==2.1.5
+opencv-python-headless==4.5.5.64
+Pillow==8.4.0
+matplotlib==3.3.4
+h5py==2.10.0
+python-multipart
